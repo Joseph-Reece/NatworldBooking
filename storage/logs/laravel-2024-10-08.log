@@ -1,0 +1,1344 @@
+[2024-10-08 20:05:02] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:05:16] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:05:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:05:33] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:05:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:05:51] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:05:57] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:01] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:09] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:21] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:27] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:37] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:41] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:47] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:06:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:01] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:07] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:11] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:16] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:21] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:26] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:36] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:41] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:07:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:32] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:36] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:08:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:09:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:09:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:09:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:09:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:09:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:09:56] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:35] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:10:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:25] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:35] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:11:55] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:00] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:05] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:10] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:15] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:20] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:26] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:30] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:33] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:35] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:38] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:40] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:44] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:45] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:49] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
+[2024-10-08 20:12:50] production.ERROR: Uncaught Symfony\Component\Finder\Exception\DirectoryNotFoundException: The "C:\xampp\htdocs\BookingCore\themes/Base/resources/views" directory does not exist. in C:\xampp\htdocs\BookingCore\vendor\symfony\finder\Finder.php:649
+Stack trace:
+#0 C:\xampp\htdocs\BookingCore\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(584): Symfony\Component\Finder\Finder->in('C:\\xampp\\htdocs...')
+#1 Command line code(1): Illuminate\Filesystem\Filesystem->files('C:\\xampp\\htdocs...')
+#2 Command line code(1): getViews('C:\\xampp\\htdocs...', Object(Illuminate\Filesystem\Filesystem))
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException: The \"C:\\xampp\\htdocs\\BookingCore\\themes/Base/resources/views\" directory does not exist. in C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649
+Stack trace:
+#0 C:\\xampp\\htdocs\\BookingCore\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(584): Symfony\\Component\\Finder\\Finder->in('C:\\\\xampp\\\\htdocs...')
+#1 Command line code(1): Illuminate\\Filesystem\\Filesystem->files('C:\\\\xampp\\\\htdocs...')
+#2 Command line code(1): getViews('C:\\\\xampp\\\\htdocs...', Object(Illuminate\\Filesystem\\Filesystem))
+#3 {main}
+  thrown at C:\\xampp\\htdocs\\BookingCore\\vendor\\symfony\\finder\\Finder.php:649)
+[stacktrace]
+#0 {main}
+"} 
